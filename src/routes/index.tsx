@@ -242,7 +242,7 @@ export default function Home() {
           <div className="flex flex-col md:flex-row justify-center gap-8">
             <div className="flex items-center gap-3 text-gray-700">
               <Phone className="w-5 h-5 text-[#c9a84c]" />
-              <span className="font-medium">(904) 555-0100</span>
+              <span className="font-medium">(904) 921-0358</span>
             </div>
             <div className="flex items-center gap-3 text-gray-700">
               <Mail className="w-5 h-5 text-[#c9a84c]" />
