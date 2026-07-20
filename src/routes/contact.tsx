@@ -92,7 +92,9 @@ function ContactPage() {
                   </div>
                   <div>
                     <div className="font-semibold text-gray-800">Phone</div>
-                    <div className="text-gray-600">(904) 921-0358</div>
+                    <a href="tel:+19049210358" className="text-gray-600 hover:text-[#1a3a5c] transition-colors">
+                      (904) 921-0358
+                    </a>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">

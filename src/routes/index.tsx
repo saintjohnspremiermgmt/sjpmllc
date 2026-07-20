@@ -242,7 +242,9 @@ export default function Home() {
           <div className="flex flex-col md:flex-row justify-center gap-8">
             <div className="flex items-center gap-3 text-gray-700">
               <Phone className="w-5 h-5 text-[#c9a84c]" />
-              <span className="font-medium">(904) 921-0358</span>
+              <a href="tel:+19049210358" className="font-medium hover:text-[#1a3a5c] transition-colors">
+                (904) 921-0358
+              </a>
             </div>
             <div className="flex items-center gap-3 text-gray-700">
               <Mail className="w-5 h-5 text-[#c9a84c]" />
